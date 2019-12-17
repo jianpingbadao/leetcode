@@ -19,7 +19,7 @@ LeetCode Problems' Solutions
 
 <table><thead>
 <tr>
-	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#1">[1-50]</a></th>
+	<th align="center"><a href="./readme/1-300.md#1">[1-50]</a></th>
 	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#51">[51-100]</a></th>
 	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#101">[101-150]</a></th>
 	<th align="center"><a href="https://github.com/openset/leetcode/blob/master/readme/1-300.md#151">[151-200]</a></th>
